@@ -1,0 +1,22 @@
+.div-centrado{
+    width: 500px;
+    margin:auto;
+}
+h2{
+    text-align: center;
+    padding: 10px;
+    margin: 5px;
+}
+
+.productos{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.card-body{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+
+}
